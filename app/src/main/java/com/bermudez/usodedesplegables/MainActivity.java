@@ -18,8 +18,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int iPosition, long l) {
                 String item=parent.getItemAtPosition(iPosition).toString();
-                System.out.println("Posición: "+iPosition);
-                System.out.println("Texto: "+item);
+
+
+
 
             }
 

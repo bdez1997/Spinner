@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">UsoDeDesplegables</string>
     <string-array name="colores">
-        <item>Rojo</item>
-        <item>Verde</item>
-        <item>Azul</item>
+        <item>Hiniesta</item>
+        <item>La estrella</item>
+        <item>Gran poder</item>
     </string-array>
 </resources>
